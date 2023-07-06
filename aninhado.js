@@ -13,3 +13,4 @@ cliente.endereco = {
 }
 
 console.log(cliente.endereco);
+console.log(cliente.telefone[1])  
