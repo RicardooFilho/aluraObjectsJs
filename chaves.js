@@ -21,4 +21,3 @@ console.log(chavesDoObjeto);
 if (!chavesDoObjeto.includes("endereco")) {
   console.error(`Erro. É necessário ter um endereço cadastrado`);
 }
-
